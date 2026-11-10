@@ -48,6 +48,35 @@ My broader professional objective is to combine independent quantitative researc
 
 Trading involves substantial financial risk. Educational materials and analytical tools do not guarantee profitability and are not intended as personalized investment advice.
 
+**My Personal Recommendations on Trading Education**
+
+Throughout my experience in financial markets, I have had the opportunity to explore different trading courses and educational approaches. In an industry where self-proclaimed trading gurus, unrealistic profit promises, and superficial teaching are widespread, I believe serious education must be grounded in practical experience, clearly defined methodologies, intellectual honesty, and a realistic understanding of risk.
+
+Of the trading education programs I have encountered, there are only two approaches I am personally willing to recommend:
+
+**1. Live in Trading — David Trullás**
+
+Led by my friend David Trullás, a highly experienced trader and multiple-time first-place finisher in the World Cup Championship of Futures Trading.
+
+His educational approach emphasizes professional market interpretation, structured technical analysis, trading psychology, capital management, and proprietary methodologies developed through extensive practical experience.
+
+I recommend his program because of its emphasis on discipline, methodology, and the development of independent trading judgment.
+
+**2. Los Perezosos del Trading — My Proprietary Educational Approach**
+
+My own educational initiative, built around **EFM (End Flow Momentum)** and proprietary technical analysis models that are not publicly available.
+
+Rather than encouraging constant trading activity, the methodology focuses on developing the **Efficient Market Observer**: an individual trained to interpret market-flow dynamics, recognize impulses, expansions, exhaustion phases, and structural changes, while distinguishing meaningful information from market noise.
+
+Students learn to work with proprietary analytical tools and empirical research methodologies, understanding not only their practical applications but also their limitations and the financial risks involved.
+
+The objective is not to teach students to predict every market movement or trade continuously, but to develop the analytical independence required to determine **when to observe, when to participate, and when remaining outside the market is the most rational decision**.
+
+**Two different methodologies, one essential principle:**
+
+*Serious trading education should develop independent judgment, methodological discipline, and risk awareness — not dependence on gurus, trading signals, or promises of easy profits.*
+
+
 ## Publications & Financial Research Commentary
 
 ### 🔹 Código Quant: Arquitectura y Algoritmos | Rankia
