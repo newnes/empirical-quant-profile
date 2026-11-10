@@ -58,7 +58,7 @@ A technical memorandum documenting the methodology, historical simulation result
 
 Historical simulation datasets may be provided for independent due diligence under confidentiality agreements, without disclosure of proprietary source code or internal parameters.
 
-**Investment inquiries:** nestor.boza@gmail.com
+*📄 **[Download EFM Technical Memorandum (PDF)](./EFM_Technical_Memorandum.pdf)**
 
 *EFM remains an independently developed proprietary framework. Historical backtesting results do not guarantee future performance. Any commercial or investment arrangement will be subject to applicable legal and regulatory requirements.*
 
