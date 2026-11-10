@@ -66,8 +66,6 @@ My publications aim to encourage critical thinking, greater market awareness, an
 
 **Publication language:** Spanish.
 
----
-
 ## Certifications
 
 - 📜 [RoboTrader Certificate (2023)](./Robotrader_2023.pdf)
