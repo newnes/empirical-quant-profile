@@ -6,7 +6,7 @@ Specialized in Python-based quantitative research and trading automation across 
 
 Developer of proprietary analytical frameworks, including EFM (End Flow Momentum), combining empirical market research, statistical validation, capital-flow analysis, market-flow dynamics, and adaptive risk-management methodologies.
 
-Professional Activities | IB · EA's · Education
+## Professional Activities | IB · EA's · Education
 
 🔹 Introducing Broker (IB)
 
