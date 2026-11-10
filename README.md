@@ -63,8 +63,8 @@ FLCO integrates stochastic growth theory, convex payoff dynamics, and mortality-
 
 - GitHub: [@newnes](https://github.com/newnes)
 - Linkedin: linkedin.com/in/nestor-mendez-boza
-- YouTube: https://www.youtube.com/@fiboquantmx
-- Email : entusiasmoadhoc@zohomail.com
+- YouTube: https://www.youtube.com/@acertimitos
+- Email : nestor.boza@gmail.com
 
 
 ---
