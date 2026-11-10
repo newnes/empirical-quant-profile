@@ -1,8 +1,52 @@
 # QuantTrader Summary
 
-Independent research-driven (“outsider”) Empirical Quantitative Developer & Algorithmic Trader with 7+ years of experience designing proprietary algorithms and quantitative models.  
-Specialized in Python-based trading automation across Futures, Options, and CFDs, including MQL5 Expert Advisors and custom indicators.  
-Developer of scalable trading bots and a core algorithmic framework for systematic strategy development.
+Independent research-driven (“outsider”) Empirical Quantitative Developer & Algorithmic Trader with 7+ years of experience designing proprietary algorithms, quantitative models, and systematic trading strategies.
+
+Specialized in Python-based quantitative research and trading automation across Futures, Options, and CFDs, including MQL5 Expert Advisors, custom indicators, and scalable algorithmic trading systems.
+
+Developer of proprietary analytical frameworks, including EFM (End Flow Momentum), combining empirical market research, statistical validation, capital-flow analysis, market-flow dynamics, and adaptive risk-management methodologies.
+
+Professional Activities | IB · EA's · Education
+
+🔹 Introducing Broker (IB)
+
+Facilitating access to financial markets through brokerage relationships, supported by firsthand empirical evaluation of trading conditions.
+
+My approach differs from conventional referral-based IB models. I personally evaluate and compare different account types offered by the broker I work with and other brokerage firms, examining commission structures, spreads, execution conditions, trading costs, and potential conflicts of interest.
+
+My objective is to promote greater transparency and help traders understand the actual conditions under which they operate, including costs and risks that may not be immediately apparent in commercial brokerage presentations.
+
+🔹 Expert Advisors (EA's) & Algorithmic Development
+
+Design and development of proprietary automated trading systems, custom technical indicators, and quantitative analytical tools using Python and MQL5.
+
+My work emphasizes empirical research, systematic strategy development, statistical validation, market-flow analysis, market-regime detection, and adaptive capital management.
+
+Rather than relying exclusively on conventional technical indicators or discretionary market predictions, I develop independent analytical frameworks designed to examine market behavior, identify changes in flow dynamics, and support evidence-based trading decisions.
+
+🔹 Quantitative Trading Education — "Los Perezosos del Trading"
+
+An independent educational initiative based on my proprietary technical analysis models, empirical market studies, and systematic trading methodologies.
+
+Unlike conventional trading education centered on trading signals, quick profits, or repetitive chart patterns, "Los Perezosos del Trading" focuses on developing analytical independence through structured observation, practical experimentation, and disciplined decision-making.
+
+Our central focus is market flow. Students learn to observe and interpret the dynamics of market movements through proprietary analytical models, examining impulses, expansions, exhaustion phases, and changing market conditions rather than relying exclusively on conventional price patterns or directional predictions.
+
+Students work directly with my proprietary technical studies and analytical tools, learning to understand their applications, limitations, and associated risks.
+
+Risk awareness begins on day one. Participants are introduced to the realities of financial markets, including leverage, execution costs, drawdowns, capital-loss exposure, uncertainty, and the limitations of historical performance.
+
+The educational philosophy emphasizes selective market participation, independent judgment, capital preservation, and the ability to recognize when remaining outside the market may be preferable to taking unnecessary risks.
+
+The philosophy is simple:
+
+Trade less impulsively. Observe more carefully. Understand the flow. Recognize the risk before committing capital.
+
+The ultimate goal is to become an efficient market observer: someone capable of interpreting market-flow dynamics, distinguishing meaningful structural changes from market noise, and making informed decisions about when to participate, when to wait, and when to remain outside the market.
+
+My broader professional objective is to combine independent quantitative research, algorithmic technology, transparent brokerage practices, and evidence-based financial education, while maintaining full intellectual independence over my proprietary models and research.
+
+Trading involves substantial financial risk. Educational materials and analytical tools do not guarantee profitability and are not intended as personalized investment advice.
 
 ---
 
