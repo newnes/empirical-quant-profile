@@ -72,10 +72,7 @@ My publications aim to encourage critical thinking, greater market awareness, an
 - 📜 [RoboTrader Certificate (2025)](./Robotrader_2025.pdf)
 - 🏆 [FundedNext Certificate (2025)](./FundedNext_2025.pdf)
 
----
-
 ## Featured Projects
-
 
 ### 🔹 [Time Series Sound](https://github.com/newnes/Time-Series-Sound)
 **Sonification of financial time series through spectral analysis and musical note mapping.**  
