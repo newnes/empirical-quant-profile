@@ -48,8 +48,6 @@ My broader professional objective is to combine independent quantitative researc
 
 Trading involves substantial financial risk. Educational materials and analytical tools do not guarantee profitability and are not intended as personalized investment advice.
 
----
-
 ## Publications & Financial Research Commentary
 
 ### 🔹 Código Quant: Arquitectura y Algoritmos | Rankia
