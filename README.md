@@ -48,7 +48,7 @@ My broader professional objective is to combine independent quantitative researc
 
 Trading involves substantial financial risk. Educational materials and analytical tools do not guarantee profitability and are not intended as personalized investment advice.
 
-**My Personal Recommendations on Trading Education**
+## My Personal Recommendations on Trading Education
 
 Throughout my experience in financial markets, I have had the opportunity to explore different trading courses and educational approaches. In an industry where self-proclaimed trading gurus, unrealistic profit promises, and superficial teaching are widespread, I believe serious education must be grounded in practical experience, clearly defined methodologies, intellectual honesty, and a realistic understanding of risk.
 
@@ -70,12 +70,13 @@ Rather than encouraging constant trading activity, the methodology focuses on de
 
 Students learn to work with proprietary analytical tools and empirical research methodologies, understanding not only their practical applications but also their limitations and the financial risks involved.
 
-The objective is not to teach students to predict every market movement or trade continuously, but to develop the analytical independence required to determine **when to observe, when to participate, and when remaining outside the market is the most rational decision**.
+The objective is not to teach students to predict every market movement or trade continuously, but to develop the analytical independence required to determine 
+
+**when to observe, when to participate, and when remaining outside the market is the most rational decision**.
 
 **Two different methodologies, one essential principle:**
 
 *Serious trading education should develop independent judgment, methodological discipline, and risk awareness — not dependence on gurus, trading signals, or promises of easy profits.*
-
 
 ## Publications & Financial Research Commentary
 
