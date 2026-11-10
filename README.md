@@ -30,6 +30,18 @@ MQL5-Projects: A quantitative research lab fusing fractal mathematics and capita
 
 ---
 
+### Strategic Investment Opportunity
+
+I am seeking potential investors, family offices, or investment firms interested in the financing, controlled deployment, and commercial operation of EFM.
+
+EFM is an independently developed proprietary framework. Its intellectual property, source code, internal architecture, and research direction remain under the exclusive control of its developer.
+
+The proposed relationship is financial and commercial rather than an intellectual or research partnership.
+
+Interested counterparties may review the technical memorandum and, subject to confidentiality agreements, access historical simulation datasets for independent due diligence.
+
+Specific investment structures, operational responsibilities, risk limits, and commercial terms will be negotiated individually and formalized in accordance with applicable legal and regulatory requirements.
+
 ## Research Frameworks
 
 🔹 Finite Lifetime Convexity Optimization (FLCO)
@@ -58,18 +70,6 @@ FLCO integrates stochastic growth theory, convex payoff dynamics, and mortality-
 
 📌 Whitepaper, mathematical formalization, and simulations in development.
 ---
-
-### Strategic Investment Opportunity
-
-I am seeking potential investors, family offices, or investment firms interested in the financing, controlled deployment, and commercial operation of EFM.
-
-EFM is an independently developed proprietary framework. Its intellectual property, source code, internal architecture, and research direction remain under the exclusive control of its developer.
-
-The proposed relationship is financial and commercial rather than an intellectual or research partnership.
-
-Interested counterparties may review the technical memorandum and, subject to confidentiality agreements, access historical simulation datasets for independent due diligence.
-
-Specific investment structures, operational responsibilities, risk limits, and commercial terms will be negotiated individually and formalized in accordance with applicable legal and regulatory requirements.
 
 ## 📫 How to reach me
 
