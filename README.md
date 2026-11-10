@@ -50,6 +50,26 @@ Trading involves substantial financial risk. Educational materials and analytica
 
 ---
 
+## Publications & Financial Research Commentary
+
+### 🔹 Código Quant: Arquitectura y Algoritmos | Rankia
+
+I also publish independent articles on quantitative finance, algorithmic trading, financial market structure, and the challenges faced by retail traders.
+
+Through my Rankia blog, **"Código Quant: Arquitectura y Algoritmos"**, I examine the differences between retail and institutional trading, quantitative research practices, technological infrastructure, risk management, and the importance of understanding how the financial industry operates.
+
+My publications aim to encourage critical thinking, greater market awareness, and evidence-based approaches to trading.
+
+**Featured Publication:**
+
+📖 [Las Verdaderas Desventajas del Trader Retail frente a la Industria de Trading Institucional](https://www.rankia.mx/blog/arquitectura-trading-algoritmico/7254008-verdaderas-desventajas-trader-retail-frente-industria-trading-institucional)
+
+*An analysis of the structural, technological, and professional differences between retail traders and the institutional trading industry, using chess as an analogy to explain the specialized roles within quantitative finance.*
+
+**Publication language:** Spanish.
+
+---
+
 ## Certifications
 
 - 📜 [RoboTrader Certificate (2023)](./Robotrader_2023.pdf)
