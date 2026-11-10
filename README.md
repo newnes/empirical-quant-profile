@@ -30,17 +30,37 @@ MQL5-Projects: A quantitative research lab fusing fractal mathematics and capita
 
 ---
 
-### Strategic Investment Opportunity
+### 🔹 EFM (End Flow Momentum) — Strategic Investment Opportunity
 
-I am seeking potential investors, family offices, or investment firms interested in the financing, controlled deployment, and commercial operation of EFM.
+**EFM (End Flow Momentum)** is a proprietary quantitative trading framework developed through more than seven years of independent empirical research.
 
-EFM is an independently developed proprietary framework. Its intellectual property, source code, internal architecture, and research direction remain under the exclusive control of its developer.
+Implemented as an MQL5 Expert Advisor for MetaTrader 5, EFM combines statistical market-regime detection with an adaptive capital-exposure mechanism.
 
-The proposed relationship is financial and commercial rather than an intellectual or research partnership.
+Its distinguishing feature is a self-referential risk-management architecture that identifies structural changes in the strategy's own account-balance series rather than relying exclusively on underlying asset prices.
 
-Interested counterparties may review the technical memorandum and, subject to confidentiality agreements, access historical simulation datasets for independent due diligence.
+**Quantitative Validation**
 
-Specific investment structures, operational responsibilities, risk limits, and commercial terms will be negotiated individually and formalized in accordance with applicable legal and regulatory requirements.
+EFM has undergone statistical evaluation using historical XAUUSD (M5) simulations, including Probabilistic Sharpe Ratio (PSR), structural break detection, walk-forward analysis, Monte Carlo block-bootstrap simulations, and dynamic robust risk measures.
+
+The research identified statistically significant differences in movement magnitude and dispersion under certain market regimes. Directional predictability was not statistically established, and the dynamic position-sizing mechanism remains a significant source of tail risk.
+
+**Investment Proposal**
+
+I am seeking potential investors, family offices, or investment firms interested in financing the controlled deployment and commercial operation of EFM.
+
+The proposed relationship is **strictly financial and commercial, not an intellectual or research partnership**.
+
+The framework's intellectual property, source code, proprietary algorithms, internal architecture, and research direction remain under the exclusive control of its developer.
+
+EFM may be deployed through dedicated infrastructure, with operational arrangements and risk limits established by mutual agreement.
+
+A technical memorandum documenting the methodology, historical simulation results, statistical validation, and identified risks is available for review.
+
+Historical simulation datasets may be provided for independent due diligence under confidentiality agreements, without disclosure of proprietary source code or internal parameters.
+
+**Investment inquiries:** nestor.boza@gmail.com
+
+*EFM remains an independently developed proprietary framework. Historical backtesting results do not guarantee future performance. Any commercial or investment arrangement will be subject to applicable legal and regulatory requirements.*
 
 ## Research Frameworks
 
