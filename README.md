@@ -299,15 +299,31 @@ Independent empirical researcher (*outsider*), **Quantitative Developer & Algori
 
 Specialized in Python-based quantitative research and trading automation across futures, options, and contracts for difference (CFDs), including MQL5 Expert Advisors, custom indicators, and scalable algorithmic trading systems.
 
-Developer of proprietary analytical frameworks, including **EFM (End Flow Momentum)**, integrating empirical market research, statistical validation, capital-flow analysis, market-flow dynamics, and adaptive risk-management methodologies.
+Developer of proprietary analytical frameworks, including **EFM (End Flow Momentum)**, a quantitative framework integrating empirical market research, statistical validation, capital-flow analysis, market-flow dynamics, and adaptive risk-management methodologies.
 
 I have participated in **international algorithmic trading competitions**, including **RoboTrader 2023, 2025, and 2026**, organized within the academic environment of the Polytechnic University of Madrid (Universidad Politécnica de Madrid), Spain, through the development and deployment of **autonomous trading systems based on proprietary algorithms**.
 
 I also participated in the **ADIA Lab Structural Break Detection Challenge (2025), Abu Dhabi, United Arab Emirates**, focused on detecting structural breaks in financial time series through quantitative analysis, statistical methodologies, and machine learning techniques.
 
-These experiences form part of my independent empirical research trajectory, emphasizing the development, experimentation, and evaluation of quantitative models under real market conditions and within international competitive environments.
+These experiences form part of my **independent empirical quantitative research**, emphasizing the development, experimentation, and evaluation of quantitative models under market conditions and within international competitive environments.
 
-My professional activities encompass **Introducing Broker (IB) services, Expert Advisor (EA) development, quantitative trading education, and independent financial research**.
+### Los Perezosos del Trading | Efficient Market Observer Methodology
+
+As part of my quantitative trading education activities, I am developing **Los Perezosos del Trading**, an independent educational initiative built around the **Efficient Market Observer Methodology**, whose primary analytical instrument is my proprietary framework, **EFM (End Flow Momentum)**.
+
+The methodology teaches participants to systematically observe and interpret market-flow dynamics using quantitative analytical tools, identifying bullish and bearish impulses, trends, neutral zones, expansions, peaks, troughs, and potential exhaustion phases.
+
+Its purpose is to develop **Efficient Market Observers** capable of distinguishing meaningful structural changes from market noise, assessing risk conditions, and building independent analytical judgment to determine when to participate, when to wait, and when to remain outside the market.
+
+Unlike educational approaches focused primarily on entry signals, conventional chart patterns, or constant trading activity, this methodology emphasizes **structured observation, market-flow interpretation, empirical experimentation, methodological discipline, and risk awareness**.
+
+**Efficiency is not measured by the number of trades executed, but by the quality of the observation, interpretation, and decision-making process.**
+
+The objective is not to teach traders to chase price movements, but to understand market behavior through a proprietary quantitative framework, recognizing uncertainty and risk as inseparable elements of financial markets.
+
+### Professional Activities
+
+My professional activities encompass **Introducing Broker (IB) services, Expert Advisor (EA) development, quantitative trading education, and independent financial research**, while maintaining full intellectual independence over my proprietary models, research methodologies, and technological developments.
 
 ---
 
