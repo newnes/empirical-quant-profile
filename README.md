@@ -194,7 +194,7 @@ A través de mi blog en Rankia, **"Código Quant: Arquitectura y Algoritmos"**, 
 
 Mis publicaciones buscan fomentar el pensamiento crítico, una mayor comprensión del mercado y enfoques de trading basados en evidencia.
 
-### Publicación Destacada
+### Publicaciones Rankia
 
 📖 **[Las Verdaderas Desventajas del Trader Retail frente a la Industria de Trading Institucional](https://www.rankia.mx/blog/arquitectura-trading-algoritmico/7254008-verdaderas-desventajas-trader-retail-frente-industria-trading-institucional)**
 
@@ -461,7 +461,7 @@ Through my Rankia blog, **"Código Quant: Arquitectura y Algoritmos"**, I examin
 
 My publications aim to encourage critical thinking, greater market awareness, and evidence-based approaches to trading.
 
-### Featured Publication
+### Rankia Publication
 
 📖 **[Las Verdaderas Desventajas del Trader Retail frente a la Industria de Trading Institucional](https://www.rankia.mx/blog/arquitectura-trading-algoritmico/7254008-verdaderas-desventajas-trader-retail-frente-industria-trading-institucional)**
 
