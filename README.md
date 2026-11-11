@@ -51,7 +51,7 @@ Una iniciativa educativa independiente basada en mis modelos propietarios de an�
 
 A diferencia de la formación convencional centrada en señales de entrada, promesas de ganancias rápidas o patrones gráficos repetitivos, **"Los Perezosos del Trading"** busca desarrollar independencia analítica mediante la observación estructurada, la experimentación práctica y la toma disciplinada de decisiones.
 
-**Nuestro enfoque central es el flujo del mercado.**
+**El enfoque central es el flujo del mercado.**
 
 Los estudiantes aprenden a observar e interpretar la dinámica de los movimientos del mercado mediante modelos analíticos propietarios, examinando impulsos, expansiones, fases de agotamiento y cambios en las condiciones del mercado, en lugar de depender exclusivamente de patrones convencionales de precios o predicciones direccionales.
 
