@@ -5,15 +5,31 @@ Investigador independiente de orientación empírica (*outsider*), **desarrollad
 
 Especializado en investigación cuantitativa mediante Python y automatización de operaciones en mercados de futuros, opciones y contratos por diferencia (CFD), incluyendo Expert Advisors desarrollados en MQL5, indicadores personalizados y sistemas algorítmicos escalables.
 
-Desarrollador de modelos analíticos propietarios, entre ellos **EFM (End Flow Momentum)**, que integra investigación empírica de mercados, validación estadística, análisis del flujo de capital, dinámica del flujo del mercado y metodologías adaptativas de gestión del riesgo.
+Desarrollador de modelos analíticos propietarios, entre ellos **EFM (End Flow Momentum)**, un framework cuantitativo que integra investigación empírica de mercados, validación estadística, análisis del flujo de capital, interpretación de la dinámica del mercado y metodologías adaptativas de gestión del riesgo.
 
 He participado en competiciones internacionales de trading algorítmico, incluyendo **RoboTrader 2023, 2025 y 2026**, organizado en el ámbito de la Universidad Politécnica de Madrid, España, mediante el desarrollo e implementación de **sistemas autónomos de trading basados en algoritmos propietarios**.
 
 Asimismo, participé en el **Structural Break Detection Challenge (2025) de ADIA Lab, Abu Dhabi, Emiratos Árabes Unidos**, enfocado en la detección de rupturas estructurales en series temporales financieras mediante técnicas de análisis cuantitativo, estadística y aprendizaje automático (*machine learning*).
 
-Estas experiencias forman parte de mi trayectoria de investigación empírica independiente, orientada al desarrollo, experimentación y evaluación de modelos cuantitativos bajo condiciones de mercado y entornos de competición.
+Estas experiencias forman parte de mi trayectoria de **investigación cuantitativa empírica independiente**, orientada al desarrollo, experimentación y evaluación de modelos cuantitativos bajo condiciones de mercado y entornos de competición.
 
-Mis actividades profesionales comprenden **servicios como Introducing Broker (IB), desarrollo de Expert Advisors (EAs), educación cuantitativa en trading e investigación financiera independiente**.
+### Los Perezosos del Trading | Metodología del Observador Eficiente del Mercado
+
+Como parte de mis actividades de educación cuantitativa, desarrollo **Los Perezosos del Trading**, una iniciativa educativa independiente fundamentada en la **Metodología del Observador Eficiente del Mercado**, cuyo principal instrumento analítico es mi framework propietario **EFM (End Flow Momentum)**.
+
+La metodología enseña a observar e interpretar sistemáticamente la dinámica del flujo del mercado mediante herramientas cuantitativas, identificando impulsos alcistas y bajistas, tendencias, zonas neutrales, expansiones, picos, valles y posibles fases de agotamiento.
+
+Su propósito es formar **Observadores Eficientes del Mercado**, capaces de distinguir cambios estructurales relevantes del ruido, evaluar las condiciones de riesgo y desarrollar criterios analíticos independientes para determinar cuándo participar, cuándo esperar y cuándo permanecer fuera del mercado.
+
+A diferencia de los enfoques educativos centrados exclusivamente en señales de entrada, patrones gráficos convencionales o actividad operativa constante, esta metodología prioriza la **observación estructurada, la interpretación del flujo, la experimentación empírica, la disciplina metodológica y la conciencia del riesgo**.
+
+**La eficiencia no se mide por la cantidad de operaciones realizadas, sino por la calidad del proceso de observación, interpretación y decisión.**
+
+El objetivo no es enseñar a perseguir el precio, sino a comprender su comportamiento mediante un framework cuantitativo propio, reconociendo que la incertidumbre y el riesgo son elementos inseparables de los mercados financieros.
+
+### Actividades Profesionales
+
+Mis actividades profesionales comprenden **servicios como Introducing Broker (IB), desarrollo de Expert Advisors (EAs), educación cuantitativa en trading e investigación financiera independiente**, manteniendo plena independencia intelectual sobre mis modelos propietarios, metodologías de investigación y desarrollos tecnológicos.
 
 ---
 
