@@ -7,6 +7,12 @@ Especializado en investigación cuantitativa mediante Python y automatización d
 
 Desarrollador de modelos analíticos propietarios, entre ellos **EFM (End Flow Momentum)**, que integra investigación empírica de mercados, validación estadística, análisis del flujo de capital, dinámica del flujo del mercado y metodologías adaptativas de gestión del riesgo.
 
+He participado en competiciones internacionales de trading algorítmico, incluyendo **RoboTrader 2023, 2025 y 2026**, organizado en el ámbito de la Universidad Politécnica de Madrid, España, mediante el desarrollo e implementación de **sistemas autónomos de trading basados en algoritmos propietarios**.
+
+Asimismo, participé en el **Structural Break Detection Challenge (2025) de ADIA Lab, Abu Dhabi, Emiratos Árabes Unidos**, enfocado en la detección de rupturas estructurales en series temporales financieras mediante técnicas de análisis cuantitativo, estadística y aprendizaje automático (*machine learning*).
+
+Estas experiencias forman parte de mi trayectoria de investigación empírica independiente, orientada al desarrollo, experimentación y evaluación de modelos cuantitativos bajo condiciones de mercado y entornos de competición.
+
 Mis actividades profesionales comprenden **servicios como Introducing Broker (IB), desarrollo de Expert Advisors (EAs), educación cuantitativa en trading e investigación financiera independiente**.
 
 ---
