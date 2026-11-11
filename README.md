@@ -156,11 +156,13 @@ FLCO reformula la función objetivo incorporando explícitamente la incertidumbr
 
 En lugar de maximizar el rendimiento por unidad de varianza, FLCO define el objetivo de optimización como:
 
+
 **Maximizar:**
 
-\[
+$$
 P(\tau_{\pi} \leq T)
-\]
+$$
+
 
 Donde:
 
@@ -424,9 +426,10 @@ Instead of maximizing return per unit of variance, FLCO defines the optimization
 
 **Maximize:**
 
-\[
+$$
 P(\tau_{\pi} \leq T)
-\]
+$$
+
 
 Where:
 
