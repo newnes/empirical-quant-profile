@@ -279,13 +279,19 @@ Para consultas relacionadas con **desarrollo algorítmico, actividades como Intr
 
 # QuantTrader | Empirical Quantitative Research & Algorithmic Trading
 
-Independent research-driven (“outsider”) **Empirical Quantitative Developer & Algorithmic Trader** with 7+ years of experience designing proprietary algorithms, quantitative models, and systematic trading strategies.
+Independent empirical researcher (*outsider*), **Quantitative Developer & Algorithmic Trader**, with over seven years of experience designing proprietary algorithms, quantitative models, and systematic trading strategies.
 
-Specialized in Python-based quantitative research and trading automation across Futures, Options, and CFDs, including MQL5 Expert Advisors, custom indicators, and scalable algorithmic trading systems.
+Specialized in Python-based quantitative research and trading automation across futures, options, and contracts for difference (CFDs), including MQL5 Expert Advisors, custom indicators, and scalable algorithmic trading systems.
 
-Developer of proprietary analytical frameworks, including **EFM (End Flow Momentum)**, combining empirical market research, statistical validation, capital-flow analysis, market-flow dynamics, and adaptive risk-management methodologies.
+Developer of proprietary analytical frameworks, including **EFM (End Flow Momentum)**, integrating empirical market research, statistical validation, capital-flow analysis, market-flow dynamics, and adaptive risk-management methodologies.
 
-My professional activities encompass **Introducing Broker (IB) services, Expert Advisor development, quantitative trading education, and independent financial research**.
+I have participated in **international algorithmic trading competitions**, including **RoboTrader 2023, 2025, and 2026**, organized within the academic environment of the Polytechnic University of Madrid (Universidad Politécnica de Madrid), Spain, through the development and deployment of **autonomous trading systems based on proprietary algorithms**.
+
+I also participated in the **ADIA Lab Structural Break Detection Challenge (2025), Abu Dhabi, United Arab Emirates**, focused on detecting structural breaks in financial time series through quantitative analysis, statistical methodologies, and machine learning techniques.
+
+These experiences form part of my independent empirical research trajectory, emphasizing the development, experimentation, and evaluation of quantitative models under real market conditions and within international competitive environments.
+
+My professional activities encompass **Introducing Broker (IB) services, Expert Advisor (EA) development, quantitative trading education, and independent financial research**.
 
 ---
 
